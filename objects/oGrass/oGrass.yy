@@ -1,24 +1,34 @@
 {
-    "id": "4fe18b0c-09b8-4664-a183-f276510c5922",
+    "id": "e13065d5-a7a0-46f7-9c21-fb6cd7772eca",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWall",
+    "name": "oGrass",
     "eventList": [
         {
-            "id": "e818584f-a963-4cb8-b0ec-4e9b89736943",
+            "id": "602738dc-f7f5-4186-96f6-a12ae0ca5e85",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4fe18b0c-09b8-4664-a183-f276510c5922"
+            "m_owner": "e13065d5-a7a0-46f7-9c21-fb6cd7772eca"
+        },
+        {
+            "id": "f901632a-ebe0-428b-80ab-52ad46293f94",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e13065d5-a7a0-46f7-9c21-fb6cd7772eca"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": true,
+    "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -32,7 +42,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "85ba8fb7-227b-4421-b076-d795d9e7e731",
-    "visible": false
+    "solid": false,
+    "spriteId": "13180033-c6b3-44b3-8ce2-c1ca7edaa4cf",
+    "visible": true
 }
